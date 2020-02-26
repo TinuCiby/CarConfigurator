@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Car configurator</string>
+    <string name="string_title_text">Configure your car</string>
+    <string name="string_make">Make</string>
+    <string name="string_model">Model</string>
+    <string name="string_fuel_type">Fuel Type</string>
+    <string name="string_btn_text">CONFIGURE</string>
+</resources>
